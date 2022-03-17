@@ -4,7 +4,7 @@
   <a href="your-Telegram-URL">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="your-Instagram-URL">
+  <a href="https://www.instagram.com/mikrolli__flex/?hl=ru">
 <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   </div>

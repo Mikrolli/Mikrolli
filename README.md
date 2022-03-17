@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7TKuAfCHifvPdcxG/giphy.gif" width="200"/>
 <div id="badges">
-  <a href="your-Telegram-URL">
+  <a href="https://t.me/Mikrolli">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/mikrolli__flex/?hl=ru">
